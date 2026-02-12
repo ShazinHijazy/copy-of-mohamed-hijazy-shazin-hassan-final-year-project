@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Mohamed Hijazy Shazin Hassan Final Year Project",
+  "description": "A defense-grade autonomous drone swarm management interface featuring real-time leader election logic, Gazebo-class simulation visualization, and a Gemini-powered Swarm Operations Copilot.",
+  "requestFramePermissions": []
+}
